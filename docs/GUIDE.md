@@ -29,7 +29,7 @@ And remember, if you add outstanding information you will have a cumulative bonu
 
 People deserving the cumulative bonus will be announced here, in the Score column.
 
-If you do not submit anything before October, 30th you will suffer a penalty of 20% in your personal score for the evaluation of the _URLShortener_ project.
+If you do not submit anything before September, 30th you will suffer a penalty of 20% in your personal score for the evaluation of the _URLShortener_ project.
 As this is your first lab, this penalty will be effective if and only if you have not attempted to submit something that have some value.
 
 If you have any doubt about the procedure post an [Issue](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race/issues).
