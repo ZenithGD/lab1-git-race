@@ -15,4 +15,3 @@ user name | NIA | GitHub Action |Score
 ----------|-----|---------------|-----
 [UNIZAR-30246-WebEngineering](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race) |30246 | [![Build Status](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race/actions/workflows/ci.yml)
 [celiia01](https://github.com/celiia01/lab1-git-race) |796685 | [![Build Status](https://github.com/celiia01/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/celiia01/lab1-git-race/actions/workflows/ci.yml)
-(https://travis-ci.org/celiia01/lab1-git-race)
