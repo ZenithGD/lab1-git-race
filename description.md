@@ -16,6 +16,3 @@ These technologies can be divided depending on its use:
 * On the server-side we can found Kotlin with the framework Spring, we use Kotlin here because of its features which can be useful on the develop the app.
 * To desing the page has been choosen HTML with Bootstrap which is use to customize the page with Sass.
 * Finally for build automation we have Gradle. Gradle is a feature which helps us with the compilation of the code, avoiding overwork.
-
-
-
