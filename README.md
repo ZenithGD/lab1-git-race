@@ -6,7 +6,7 @@ Some ideas for obtaining a :gift: if you are the first that:
 
 - **Moby Dick**: Use Docker to run the app
 - **Moby Dick II**: Use Docker Compose to run the app
-- **Moby Dick III**: Use Kubernetes (minikube) to run the app
+- ~**Moby Dick III**: Use Kubernetes (minikube) to run the app~ solved by [ZenithGD](https://github.com/ZenithGD/lab1-git-race).
 - **Home improvement**: Use a markup template language different from Thymeleaf (server side)
 - **Home improvement II**: Use an endpoint that returns the message and update the HTML in client side (no MVC server side)
 - **Home improvement III**: Use modern JS framework (React) and a Restful web service (no MVC server side)
@@ -14,5 +14,4 @@ Some ideas for obtaining a :gift: if you are the first that:
 user name | NIA    | GitHub Action |Score
 ----------|--------|---------------|-----
 [UNIZAR-30246-WebEngineering](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race) | 30246  | [![Build Status](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race/actions/workflows/ci.yml)
-[ZenithGD](https://github.com/ZenithGD/lab1-git-race) | 795306 | [![Build Status](https://github.com/ZenithGD/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/ZenithGD/lab1-git-race/actions/workflows/ci.yml)
-(https://travis-ci.org/ZenithGD/lab1-git-race)
+[ZenithGD](https://github.com/ZenithGD/lab1-git-race) | 795306 | [![Build Status](https://github.com/ZenithGD/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/ZenithGD/lab1-git-race/actions/workflows/ci.yml) | :gift:
